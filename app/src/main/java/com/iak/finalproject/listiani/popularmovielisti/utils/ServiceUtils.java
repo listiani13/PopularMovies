@@ -10,7 +10,7 @@ public class ServiceUtils {
     /*Generated API Key from themoviedb.org
     * Please use your own API Key.
     * */
-    public static final String API_KEY = "50a0ddf657a33312fd3b89a328385507";
+    public static final String API_KEY = "*";
     /**
      * URI path untuk popular movie
      **/

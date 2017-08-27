@@ -1,0 +1,9 @@
+TODO:
+1. Clickhandler for ViewHolder, once it's clicked it sends intent to Movie Details
+2. Create Movie Details Layout contains information such as:
+- original title
+- movie poster image thumbnail
+- A plot synopsis (called overview in the api)
+- user rating (called vote_average in the api)
+- release date
+3. Add Recycler View that hold trailer of Movies
