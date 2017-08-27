@@ -78,9 +78,8 @@ public class MovieAdapter extends RecyclerView.Adapter {
         public void bind(String imageUrl) {
             Picasso.with(itemView.getContext())
                     .load(imageUrl)
-                    .fit()
-                    .centerCrop()
                     .into(moviePosterView);
+//            kalo mau pake fit dan centercrop, jangan lupa set placeholder di itemnya
         }
     }
 }
