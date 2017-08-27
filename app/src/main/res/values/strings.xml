@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movie Listi</string>
+    <string name="sort_menu">Sort By</string>
+    <string name="sort_option_popularity">Most Popular</string>
+    <string name="sort_option_rated">Top Rated Movies</string>
+    <string name="sort_option_favourite">My Favorites</string>
+</resources>
